@@ -21,9 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/input_Password_Submit (1)'))
-
 WebUI.doubleClick(findTestObject('Object Repository/Page_OrangeHRM/input_Password_Submit (1)'))
-
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/input_Password_Submit (1)'))
 
