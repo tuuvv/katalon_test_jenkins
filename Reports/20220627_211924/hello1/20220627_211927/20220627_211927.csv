@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+hello1,Chrome 102.0.5005.115,,,2022-06-27 21:21:11,2022-06-27 21:23:48,2m - 36.976s,PASSED
+,,,,,,,
+Test Cases/hello1,Chrome 102.0.5005.115,,,2022-06-27 21:21:18,2022-06-27 21:23:48,2m - 30.182s,PASSED
+"openBrowser("""")",Chrome 102.0.5005.115,,,2022-06-27 21:21:24,2022-06-27 21:22:52,1m - 27.830s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/"")",Chrome 102.0.5005.115,,,2022-06-27 21:22:52,2022-06-27 21:23:05,13.177s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), ""Admin"")",Chrome 102.0.5005.115,,,2022-06-27 21:23:05,2022-06-27 21:23:11,6.031s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_txtPassword""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Chrome 102.0.5005.115,,,2022-06-27 21:23:11,2022-06-27 21:23:14,3.080s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/input_Password_Submit""))",Chrome 102.0.5005.115,,,2022-06-27 21:23:14,2022-06-27 21:23:35,21.529s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_OrangeHRM/h1_Dashboard""), ""Dashboard"")",Chrome 102.0.5005.115,,,2022-06-27 21:23:35,2022-06-27 21:23:48,12.395s,PASSED

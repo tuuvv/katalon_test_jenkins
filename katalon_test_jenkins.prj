@@ -6,6 +6,7 @@
    <UUID>5cb4a001-4fa5-4aa2-a7ef-17dc09a922e1</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\vuvan\OneDrive\Desktop\katalon\katalon_test_jenkins\katalon_test_jenkins.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

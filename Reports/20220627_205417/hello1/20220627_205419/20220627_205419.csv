@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+hello1,,,,2022-06-27 20:56:19,2022-06-27 21:13:35,17m - 16.723s,FAILED
+,,,,,,,
+Test Cases/hello1,,,,2022-06-27 20:56:30,2022-06-27 21:13:35,17m - 5.608s,FAILED
+"openBrowser("""")",,,,2022-06-27 20:56:39,2022-06-27 21:03:35,6m - 56.544s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/"")",,,,2022-06-27 21:03:35,2022-06-27 21:13:35,10m - 0.143s,FAILED
